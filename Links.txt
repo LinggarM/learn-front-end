@@ -1,0 +1,5 @@
+Soal :
+https://www.youtube.com/watch?v=FFWu9Wqdg8E Kerjain Soal TEST CODING Interview Kerja Programmer 2022
+
+Jawaban :
+jquery_ajax.html
